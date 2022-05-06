@@ -10,7 +10,7 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/src/MonoGamePocDesktop/bin/Debug/netcoreapp3.1/MonoGamePocDesktop.dll",
+            "program": "${workspaceFolder}/src/MonoGamePocDesktop/bin/Debug/netcoreapp6.0/MonoGamePocDesktop.dll",
             "args": [],
             "cwd": "${workspaceFolder}/src/MonoGamePocDesktop",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
